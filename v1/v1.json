@@ -1,0 +1,15 @@
+{
+  "name": "Latest Stable",
+  "version": "v2.4.1",
+  "date": "November 18, 2024",
+  "minAndroid": "Android 8.0+",
+  "size": "45 MB",
+  "recommended": true,
+  "downloadUrl": "https://lirilabs.netlify.app/downloads/liri-app-v2.4.1.apk",
+  "logoUrl": "https://lirilabs.netlify.app/assets/logo.png",
+  "changes": [
+    "Enhanced offline sync performance",
+    "Improved privacy controls",
+    "Bug fixes and stability improvements"
+  ]
+}
