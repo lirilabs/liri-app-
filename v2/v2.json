@@ -1,12 +1,12 @@
 {
-  "name": "Latest Stableeee",
-  "version": "v2.4.1",
-  "date": "November 18, 2024",
+  "name": "Latest Stable",
+  "version": "v0.0.1",
+  "date": "November 21, 2025",
   "minAndroid": "Android 8.0+",
-  "size": "450 MB",
+  "size": "30 MB",
   "recommended": true,
-  "downloadUrl": "https://lirilabs.netlify.app/downloads/liri-app-v2.4.1.apk",
-  "logoUrl": "https://lirilabs.netlify.app/assets/logo.png",
+  "downloadUrl": "https://github.com/lirilabs/liri-app-/raw/refs/heads/main/v2/app-release.apk",
+  "logoUrl": "https://github.com/lirilabs/Liri/blob/main/Picsart_25-11-20_12-11-56-569.png?raw=true",
   "changes": [
     "Enhanced offline sync performance",
     "Improved privacy controls",
