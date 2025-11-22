@@ -6,7 +6,7 @@
   "size": "30 MB",
   "recommended": true,
   "downloadUrl": "https://github.com/lirilabs/liri-app-/raw/refs/heads/main/v2/app-release.apk",
-  "logoUrl": "https://github.com/lirilabs/Liri/blob/main/Picsart_25-11-20_12-11-56-569.png?raw=true",
+  "logoUrl": "https://github.com/lirilabs/Liri/blob/main/liri.png?raw=true",
   "changes": [
     "Enhanced offline sync performance",
     "Improved privacy controls",
