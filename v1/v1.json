@@ -1,15 +1,17 @@
 {
-  "name": "Latest Stable",
+  "name": "First Stable Release",
   "version": "v0.0.1",
-  "date": "November 21, 2025",
+  "date": "November 23, 2025",
   "minAndroid": "Android 8.0+",
   "size": "30 MB",
   "recommended": true,
-  "downloadUrl": "https://github.com/lirilabs/liri-app-/raw/refs/heads/main/v2/app-release.apk",
+  "downloadUrl": "https://github.com/sanjay434343/Liri/releases/download/v0.0.1/app-release.apk",
   "logoUrl": "https://github.com/lirilabs/Liri/blob/main/liri.png?raw=true",
   "changes": [
-    "Enhanced offline sync performance",
-    "Improved privacy controls",
-    "Bug fixes and stability improvements"
+    "Initial release of Liri",
+    "Core music playback and library features",
+    "Offline support and playlist management",
+    "Spotify playlist import",
+    "Modern UI and smooth performance"
   ]
 }
