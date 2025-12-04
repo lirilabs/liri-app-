@@ -5,7 +5,7 @@
   "minAndroid": "Android 8.0+",
   "size": "32 MB",
   "recommended": true,
-  "downloadUrl": "https://github.com/lirilabs/liri-app-/raw/refs/heads/main/v2/app-release.apk",
+  "downloadUrl": "https://github.com/sanjay434343/Liri/releases/download/v0.0.2/app-release.apk",
   "logoUrl": "https://github.com/lirilabs/Liri/blob/main/liri.png?raw=true",
   "changes": [
     "Newly added: Dedication and Reels (beta) features",
