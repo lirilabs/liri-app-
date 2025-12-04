@@ -1,0 +1,17 @@
+{
+  "name": "Beta Release",
+  "version": "v0.0.2",
+  "date": "December 04, 2025",
+  "minAndroid": "Android 8.0+",
+  "size": "32 MB",
+  "recommended": true,
+  "downloadUrl": "https://github.com/sanjay434343/Liri/releases/download/v0.0.2/app-release.apk",
+  "logoUrl": "https://github.com/lirilabs/Liri/blob/main/liri.png?raw=true",
+  "changes": [
+    "Newly added: Dedication and Reels (beta) features",
+    "Playlist deletion and edit options re-added in Library",
+    "Updated Spotify import UI with faster performance",
+    "Spotify import song limit increased from 100 to unlimited",
+    "General performance improvements and UI refinements"
+  ]
+}
